@@ -121,5 +121,5 @@ eval "$(starship init zsh)"
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
 
 # Brew bundle
-HOMEBREW_BUNDLE_FILE="$HOME/.Brewfile"
+HOMEBREW_BUNDLE_FILE="$HOME/.dotfiles/Brewfile"
 HOMEBREW_BUNDLE_VSCODE_SKIP="true"
