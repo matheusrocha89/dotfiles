@@ -1,0 +1,5 @@
+# Install
+
+```
+./install.sh
+```
